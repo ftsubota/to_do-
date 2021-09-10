@@ -1,0 +1,31 @@
+#divAdd {
+    
+}
+
+#divLista {
+   
+}
+
+.tarefa {
+    margin-left: 20%;
+}
+
+.descTarefa {
+    display: inline;
+}
+
+.prioridade-alta{
+    color: red;
+    font-size: x-large;
+
+}
+
+.prioridade-normal{
+    color: black;
+    font-size: x-large;
+}
+
+.prioridade-baixa{
+    color: blue;
+    font-size: x-large;
+}
